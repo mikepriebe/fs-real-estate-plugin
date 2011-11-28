@@ -1,0 +1,35 @@
+#fsrep-account-main-box {float: left; width: 50%; padding-top: 12px; text-align: left;}
+#fsrep-account-main-box form { text-align: left;}
+#fsrep-account-main-box input { margin-bottom: 12px; }
+#fsrep-account-main-box .fs-form-name { font-weight: bold; }
+#fsrep-add-listing { text-align: left; }
+#fsrep_input { width: 100%; padding: 10px 0; }
+#fsrep_input #fsrep_input_label { float: left; width: 175px; font-weight: bold; }
+#fsrep-footer-powered { text-align: center; font-size: 11px; color: #FFFFFF;}
+#fsrep-footer-powered a { color: #FFFFFF; }
+
+/* ERRORS */
+#fsrep-form-error { color: #B80000; font-weight: bold; padding-bottom: 12px;}
+
+/* ADVANCED SEARCH FORM */
+#fsrep-adv-search-box { border: 2px solid #999999; text-align: left; padding: 0 5px; margin-bottom: 24px;}
+#fsrep-adv-search-form { margin: 0; text-align: left; font-size: 11px;}
+#fsrep-adv-search-form input, select { font-size: 11px; size: 5px; width: 100px;}
+#fsrep-adv-search-form #fsrep_input { float: left; width: 50%; padding: 5px 0; }
+#fsrep-adv-search-form #fsrep_input_label { width: 100px;}
+
+/* WIDGET SEARCH */
+#fsrep_search_widget_form { line-height: 1.5em;}
+#fsrepws-input { padding-bottom: 5px; clear: left;}
+#fsrepws-input-title {float: left; width: 90px; font-weight: bold; font-size: 11px; }
+#fsrepws-input input, select { font-size: 11px;}
+#fsrepws-submit { margin-top: 12px; text-align: center;}
+#fsrepws-adv-link { text-align: center;}
+
+/* LISTING PAGE */
+#fsrep-images { min-height: 165px; margin-bottom: 12px; }
+#fsrep-main-image { float: left; margin-right: 12px; }
+#fsrep-add-image { }
+
+/* POWERED BY */
+.fsrep-powered, .fsrep-powered a { text-align: center; font-size: 9px; color: #CCCCCC}
