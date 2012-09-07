@@ -1,0 +1,5 @@
+Options +FollowSymLinks
+RewriteEngine on
+
+# XML
+RewriteRule ^(.*).xml$ $1\.php [L] 
