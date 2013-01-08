@@ -1,5 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine on
-
-# JS
-RewriteRule ajax.js  ajax\.php
